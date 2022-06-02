@@ -1,6 +1,6 @@
 -- using distinct
 SELECT DISTINCT( country )
-FROM   customers;
+FROM customers;
 
 -- using group by
 SELECT country
